@@ -2,7 +2,7 @@
 
 This repository contains two different classification projects implemented using Convolutional Neural Networks (CNN). Both projects are developed using TensorFlow/Keras.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CNN/
@@ -40,7 +40,7 @@ A CNN model developed for detecting malaria parasites in blood cells. This proje
 2. Install required libraries
 3. Run the notebook cell by cell
 
-## 🧠 02-Brain_Tumor_Classification
+## 02-Brain_Tumor_Classification
 
 ### Project Description
 CNN models developed for classifying brain tumor MRI images. This project is used to detect different types of brain tumors.
